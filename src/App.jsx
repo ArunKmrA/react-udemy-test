@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <h1>Learning with ChaiNcode</h1>
-      <p>React + Vite</p>
+      <p>Change this please</p>
     </>
   )
 }
